@@ -5,4 +5,4 @@ You can play the game by clicking [HERE](https://play.unity.com/mg/other/adventu
 
 If you want too, [THIS](https://www.youtube.com/playlist?list=PLgTmU6kuSLtz1GCoybobrln0nZilckt-Z) is the link to the tutorial.
 
-It's compatible with Unity 2018.4.23f1 (64-bit)
+It's compatible with Unity 2020.3.32f1 (64-bit)
