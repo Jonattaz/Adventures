@@ -73,7 +73,7 @@ public class GameManager : MonoBehaviour
     }
 
 
-    private void OnLevelWasLoaded(int level)
+    private void LevelWasLoaded(int level)
     {
         if (SceneManager.GetActiveScene().buildIndex == 0)
         {
