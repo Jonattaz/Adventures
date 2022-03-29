@@ -3181,7 +3181,7 @@ GameObject:
   - component: {fileID: 1304173155}
   - component: {fileID: 1304173154}
   m_Layer: 0
-  m_Name: b
+  m_Name: Box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3201,6 +3201,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   renderer: {fileID: 1304173155}
   timer: 0.1
+  stop: 0
 --- !u!212 &1304173155
 SpriteRenderer:
   m_ObjectHideFlags: 0
